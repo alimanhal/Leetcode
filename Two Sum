@@ -9,7 +9,7 @@ class Solution:
 
 
 
-Explantion 👇:
+# Explantion 👇:
       This code defines a method twoSum inside the Solution class to solve the "Two Sum" problem. 
 The method iterates through a list of integers, nums, using two nested loops to check all possible 
 pairs of elements. If a pair of elements adds up to the given target, it returns their indices as a 
